@@ -1,2 +1,2 @@
 # FitMeApp
-Arduino app that keeps track of your steps and calories
+Fitness app to keep track of the user's activity
